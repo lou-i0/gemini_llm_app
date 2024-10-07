@@ -11,3 +11,5 @@ This is loosely based on a tutorial found [here](https://www.youtube.com/watch?v
 # How to acquire an Gemini API Key
 1. go to [here](https://ai.google.dev/gemini-api/docs)
 2. Click on the "Get a Gemini API key in Google AI Studio" ![gemini_api_key_click](api_keyss.png)
+3. This will then take you to https://aistudio.google.com/app/apikey and follow the steps to get an api key
+    - Make sure to save this key down somewhere, that wont be seen in the application later, such as an environment variable, or similar.
